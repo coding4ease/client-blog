@@ -1,5 +1,5 @@
 .App-logo {
-  height: 30vmin;
+  height: 15vmin;
   pointer-events: none;
 }
 
@@ -28,6 +28,32 @@
 
 .header h3 span {
   font-style: italic;
+}
+
+.blog-body {
+}
+
+.inside-body {
+  margin: 5em 20px 20px;
+}
+
+.inside-post {
+}
+
+.post {
+}
+
+.user-label {
+  display: flex;
+  width: 3em;
+}
+
+.user-label span {
+  font-size: 9px;
+}
+
+.post-text a {
+  text-decoration: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
